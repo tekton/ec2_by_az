@@ -1,0 +1,8 @@
+VENV
+.DS_Store
+node_modules
+public
+public/*
+.env.production
+.cache/
+src/images/
